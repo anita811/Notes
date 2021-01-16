@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51340887125",
+    "project_id": "staanotes",
+    "storage_bucket": "staanotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51340887125:android:b0505ba652ca40aa7480dc",
+        "android_client_info": {
+          "package_name": "com.staa.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51340887125-u2gg8rkohf9ev02h4dquo1sb7k25ai0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72pIG3Ja9RlAlSN37OgEfkO5mX1Az7Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51340887125-u2gg8rkohf9ev02h4dquo1sb7k25ai0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
